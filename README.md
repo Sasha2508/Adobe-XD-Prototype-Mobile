@@ -1,10 +1,7 @@
 # Adobe-XD-Prototype-Mobile
 
 
-![Screen Shot 2021-03-18 at 00 37 33](https://user-images.githubusercontent.com/71674667/111578769-c2e1ac80-8782-11eb-86f6-7ab3970603a9.png)
-
-
-![Screen Shot 2021-03-18 at 00 37 44](https://user-images.githubusercontent.com/71674667/111578779-c7a66080-8782-11eb-8dc4-82ff9fb9e589.png)
+![Screen Shot 2021-03-18 at 00 37 33](https://user-images.githubusercontent.com/71674667/111578769-c2e1ac80-8782-11eb-86f6-7ab3970603a9.png)![Screen Shot 2021-03-18 at 00 37 44](https://user-images.githubusercontent.com/71674667/111578779-c7a66080-8782-11eb-8dc4-82ff9fb9e589.png)
 
 ![Screen Shot 2021-03-18 at 00 37 54](https://user-images.githubusercontent.com/71674667/111578791-cd03ab00-8782-11eb-8712-2d9bb858877a.png)
 
